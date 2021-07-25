@@ -1,5 +1,5 @@
 # ComposTor
-This project demonstrates usage of docker-compose to build set of load-balanced tor clients providing socks5 proxies with
+This project demonstrates usage of docker-compose to build set of load-balanced tor clients providing socks5 proxies with nginx.
 
 Each tor service provides socks5 proxy running on port 9150.
 
